@@ -2,7 +2,7 @@
 
 # Experiment 1 — Study of Microwave Components and Instruments
 
----
+---    
 
 ## Aim
 
@@ -151,7 +151,7 @@ A parabolic antenna uses a reflector with the cross-sectional shape of a parabol
 
 **Types by feed:**
 
-<img width="270" height="380" alt="image" src="https://github.com/user-attachments/assets/4b9e41fd-5164-44b9-9fb0-816d48fc831d" />
+<img width="270" height="407" alt="image" src="https://github.com/user-attachments/assets/4b9e41fd-5164-44b9-9fb0-816d48fc831d" />
 
 * **Axial or front feed** — feed at the focus on the beam axis; the feed and its supports block part of the beam, limiting aperture efficiency to 55–60 %.
 * **Offset or off-axis feed** — an asymmetrical segment of a paraboloid places the feed to one side, out of the beam path; widely used in home satellite dishes.
@@ -166,32 +166,32 @@ where **A** is the aperture area (mouth of the reflector), **d** the reflector d
 
 ## 11. Magic Tee
 
-<img width="252" height="200" alt="image" src="https://github.com/user-attachments/assets/cf494478-1040-4995-8977-bb0d28116eae" />
+<img width="252" height="246" alt="image" src="https://github.com/user-attachments/assets/cf494478-1040-4995-8977-bb0d28116eae" />
 
 
 A combination of E- and H-plane tees. Arm 3 forms an H-plane tee with arms 1 and 2; arm 4 forms an E-plane tee with arms 1 and 2. Arms 1 and 2 are the side or collinear arms. Port 3 is the H-plane port (sum port, P-port); port 4 is the E-plane port (difference port, Δ or S-port).
 
 A signal injected into the H-plane port divides equally and **in phase** between ports 1 and 2. A signal injected into the E-plane port divides equally but **180° out of phase**. Signals fed into ports 1 and 2 add at the H-plane port and subtract at the E-plane port. The ideal scattering matrix is:
 
-<img width="603" height="190" alt="image" src="https://github.com/user-attachments/assets/077a236c-8386-459c-aaea-9ad9211bc2ac" />
+<img width="603" height="213" alt="image" src="https://github.com/user-attachments/assets/077a236c-8386-459c-aaea-9ad9211bc2ac" />
 
 
 
 ## 12. E and H Plane Tee
 
-<img width="462" height="190" alt="image" src="https://github.com/user-attachments/assets/f0df6122-b4cc-4637-a52b-7be96eea2cb8" />
+<img width="462" height="213" alt="image" src="https://github.com/user-attachments/assets/f0df6122-b4cc-4637-a52b-7be96eea2cb8" />
 
 In the **E-plane tee** the auxiliary arm joins the broad wall of the main waveguide; in the **H-plane tee** it joins the narrow wall.
 
 ## 13. Matched Termination
 
-<img width="202" height="150" alt="image" src="https://github.com/user-attachments/assets/9b06a4db-4010-4e2c-adf4-91a7fa26be2b" />
+<img width="202" height="176" alt="image" src="https://github.com/user-attachments/assets/9b06a4db-4010-4e2c-adf4-91a7fa26be2b" />
 
 Used to terminate waveguide systems operating at low average power; designed to absorb all applied power and assure a low SWR. Used wherever a matched load is required — reflection measurements, discontinuity/obstacle measurements — and as a precise reference load with tee junctions and directional couplers.
 
 ## 14. Waveguide-to-Coaxial Adaptor
 
-<img width="177" height="140" alt="image" src="https://github.com/user-attachments/assets/628bf1a7-7fa2-4887-bf4c-72f5972372c9" />
+<img width="177" height="157" alt="image" src="https://github.com/user-attachments/assets/628bf1a7-7fa2-4887-bf4c-72f5972372c9" />
 
 A short section of waveguide with a probe transition to coax mounted on the broad wall. It transforms waveguide impedance into coaxial impedance, power can be transmitted in either direction, and each adaptor covers about 50 % of the waveguide band.
 
